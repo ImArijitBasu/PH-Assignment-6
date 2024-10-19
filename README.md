@@ -23,3 +23,4 @@ Arrow function , Template literals , Object destructure, Let/Const, forEach(), a
 # LIVE LINK --
 
 [Peddy](https://phassignment6arijit.netlify.app/)"# PH-Assignment-6" 
+[github](https://imarijitbasu.github.io/PH-Assignment-6/)
